@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F11B572-F298-4A89-B806-9F12F977FD02}|SOLUCION\\SOLUCION.csproj|c:\\users\\upn\\downloads\\practicart4\\solucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F11B572-F298-4A89-B806-9F12F977FD02}|SOLUCION\\SOLUCION.csproj|solutionrelative:solucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11B572-F298-4A89-B806-9F12F977FD02}|SOLUCION\\SOLUCION.csproj|c:\\users\\upn\\downloads\\practicart4\\solucion\\desayunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F11B572-F298-4A89-B806-9F12F977FD02}|SOLUCION\\SOLUCION.csproj|solutionrelative:solucion\\desayunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "desayunos.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\PRACTICART4\\SOLUCION\\desayunos.cs",
+              "RelativeDocumentMoniker": "SOLUCION\\desayunos.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\PRACTICART4\\SOLUCION\\desayunos.cs",
+              "RelativeToolTip": "SOLUCION\\desayunos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:57:45.258Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "SOLUCION\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Downloads\\PRACTICART4\\SOLUCION\\Program.cs",
               "RelativeToolTip": "SOLUCION\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T14:48:46.98Z",
               "EditorCaption": ""
